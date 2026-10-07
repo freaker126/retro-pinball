@@ -8,7 +8,7 @@ An authentic, single-table, top-view **black & white retro pinball game** built 
 
 1. Open your terminal and change directory to the game folder:
    ```bash
-   cd "/Users/along123/PyProjects/pypinball"
+   cd pypinball
    ```
 
 2. Run the game:
